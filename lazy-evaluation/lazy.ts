@@ -1,3 +1,5 @@
+// Disclaimer: I did not come up with these examples. Credits to tsoding and this video:
+// https://www.youtube.com/watch?v=E5yAoMaVCp0
 
 ///////////////////////////////////////////////////////////////////////////////
 //  Lazy Evaluation
